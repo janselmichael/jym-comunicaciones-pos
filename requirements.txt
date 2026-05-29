@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+PyQt5-sip==12.13.0
+sqlite3
+reportlab==4.0.7
+openpyxl==3.10.10
+pyinstaller==5.13.2
